@@ -658,6 +658,10 @@ html, body, #root {
   right: 0px;
 }
 
+.z-10 {
+  z-index: 10;
+}
+
 .mx-6 {
   margin-left: 1.5rem;
   margin-right: 1.5rem;

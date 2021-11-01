@@ -31,7 +31,7 @@ function Auth() {
           </Menu.Button>
           <Menu.Items
             className={
-              'absolute p-1 top-full right-0 w-48 bg-active rounded translate-y-2'
+              'absolute p-1 top-full right-0 w-48 bg-active rounded translate-y-2 z-10'
             }
           >
             <Menu.Item>
